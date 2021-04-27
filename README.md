@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agaia
-- 👀 I’m interested in Bordeaux
+- 👀 I’m passionate about iOS development
 - 🌱 I’m currently learning iOS 14 Widgets implementation
 
 <!---

@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @agaia
-- 👀 I’m passionate about iOS development
-- 🌱 I’m currently learning iOS 14 Widgets implementation
+- 👀 I’m passionated about iOS development
+- 🌱 I’m currently playing with Combine 
+- 🎯 I'm working on a new project, linked with new year's resolutions 
 
 <!---
 agaia/agaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agaia
 - 👀 I’m passionated about iOS development
-- 🌱 I’m currently playing with Combine 
+- 🌱 I’m currently playing with Custom transitions 
 - 🎯 I'm working on a new project, linked with new year's resolutions 
 
 <!---
